@@ -2,6 +2,8 @@
 
 A drum rhythm game for Windows. Play along to your existing song library using a MIDI drum kit, controller, keyboard, or touchscreen.
 
+![Screenshot 1](assets/drumwright demo page 2.png)
+
 > **Alpha build — v0.1.** Expect rough edges. Bug reports welcome via GitHub Issues.
 
 ---
@@ -16,9 +18,11 @@ Requires Windows 10 or later.
 
 ## Songs
 
-Drumwright uses Clone Hero-compatible song folders. If you already have a Clone Hero library, point Drumwright at it during setup — no duplication required.
+Drumwright uses Clone Hero-compatible song folders. If you already have a Clone Hero library, point Drumwright at it during setup, no duplication required.
 
 Songs are imported on first load. Drumwright writes a small `.dcht` file into each song folder alongside the existing audio; everything else stays untouched.
+
+**I don't think this breaks Clone Hero, as all it does is add a ".dcht" chart file and optionally a "preview.ogg" audio file. Please let me know if it causes issue.**
 
 ---
 
@@ -30,7 +34,7 @@ Songs are imported on first load. Drumwright writes a small `.dcht` file into ea
 4. Point the game at your songs folder
 5. Run audio calibration so hit timing lines up with your hardware
 
-That's it. The library loads on first run; subsequent launches use a cache and are fast.
+Library loading will take a long time on your first launch while it caches your library and will be substantially faster on subsequent launches.
 
 ---
 
