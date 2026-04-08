@@ -2,7 +2,11 @@
 
 A drum rhythm game for Windows. Play along to your existing song library using a MIDI drum kit, controller, keyboard, or touchscreen.
 
+![test](https://github.com/StevenCranmer/DrumwrightPublic/blob/main/assets/drumwright%20demo%20page.png?raw=true)
+
 ![Test](https://github.com/StevenCranmer/DrumwrightPublic/blob/main/assets/drumwright%20demo%20page%202.png)
+
+![test](https://github.com/StevenCranmer/DrumwrightPublic/blob/main/assets/Drumwright_Accidentally_in_Love_Normal_20260409_000950.png?raw=true)
 
 > **Alpha build — v0.1.** Expect rough edges. Bug reports welcome via GitHub Issues.
 
