@@ -1,6 +1,6 @@
 # DRUMWRIGHT
 
-A drum rhythm game for Windows. Play along to your existing song library using a MIDI drum kit, controller, keyboard, or touchscreen.
+A drum rhythm game for Windows designed to teach you proper drumming technique. Supports a MIDI drum kit (the intended experience), controller, keyboard, or touchscreen.
 
 ![test](https://github.com/StevenCranmer/DrumwrightPublic/blob/main/assets/drumwright%20demo%20page.png?raw=true)
 
