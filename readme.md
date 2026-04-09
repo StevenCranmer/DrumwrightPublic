@@ -55,13 +55,15 @@ Library loading will take a long time on your first launch while it caches your 
 
 ## Game Modes
 
-**Normal** — 5 lanes. Kick, snare, hi-hat, and two toms. Good starting point.
+**Gamepad** - 4 lanes. Designed for gamepad and playtesting.
 
-**Pro** — 8 lanes. Adds cymbals and open/closed hi-hat distinction.
+**Normal** — 5 lanes. Kick, snare, and three toms. Good starting point for learning the drums.
 
-**Authentic** — 8 lanes. Full chart including ghost notes, rimshots, foot splashes, and hi-hat modifiers. As close to actually playing the song as the chart allows.
+**Pro** — 8 lanes. Adds the hi-hat, ride cymbal and snare cymbal. Functionally equivalent to Rock Band Pro Drums.
 
-Higher modes earn more XP. You can switch mode per-song at any time.
+**Authentic** — 8 lanes. Full chart including ghost notes, rimshots, foot splashes, and hi-hat modifiers (open/closed notes). As close to actually playing the song as I can manage.
+
+Higher modes earn more XP. You can switch mode at any time between songs.
 
 ---
 
