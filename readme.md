@@ -26,7 +26,7 @@ Drumwright uses Clone Hero-compatible song folders. If you already have a Clone 
 
 Songs are imported on first load. Drumwright writes a small `.dcht` file into each song folder alongside the existing audio; everything else stays untouched.
 
-**I don't think this breaks Clone Hero, as all it does is add a ".dcht" chart file and optionally a "preview.ogg" audio file. Please let me know if it causes issue.**
+**I don't think this should interfere with Clone Hero, as all it does is add a ".dcht" chart file and optionally a "preview.ogg" audio file. Please let me know if it causes issues.**
 
 ---
 
